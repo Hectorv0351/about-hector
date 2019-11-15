@@ -1,18 +1,16 @@
-Hector Vargas
+## Hector Vargas  
+__hectorv0351@hstat.org__  
+## Highschool of Telecommunication Arts and Technology
 
-hectorv0351@hstat.org
+_Bio:_  
+_Hello if you couldn't tell my name is Hector welcome my repo :D_
 
-Highschool of Telecommunication Arts and Technology
-
-Bio:  
-Hello if you couldn't tell my name is Hector welcome my repo :D
-
-1st Algebra  
-2nd English  
-3rd SEP  
-4th Lunch  
-5th Spanish  
-6th Art  
-7th Weight Training  
-8th US History  
+1st __Algebra__  
+2nd __English__  
+3rd __SEP__  
+4th __Lunch__  
+5th __Spanish__  
+6th __Art__  
+7th __Weight Training__  
+8th __US History__  
 
