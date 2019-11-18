@@ -1,8 +1,6 @@
 ### Hector Vargas  
-__hectorv0351@hstat.org__  
-## Highschool of Telecommunication Arts and Technology
-[School's Website](http://www.hstat.org/)  
-
+####   __hectorv0351@hstat.org__  
+## [Highschool of Telecommunication Arts and Technology](http://www.hstat.org/)
 
 _Bio:_  
 _Hello! Welcome to my about me im currently in the SEP program and a junior at **HSTAT**._  
