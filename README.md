@@ -5,14 +5,15 @@
 _Bio:_  
 _Hello! Welcome to my about me im currently in the SEP program and a junior at **HSTAT**._  
 
-
-
-1st __Algebra__  
-2nd __English__  
-3rd __SEP__  
-4th __Lunch__  
-5th __Spanish__  
-6th __Art__  
-7th __Weight Training__  
-8th __US History__  
+![alt text](https://i.giphy.com/media/CXwqujCzrr5D2/giphy.webp)
+ 
+## Schedule  
+1. __Algebra__  
+2. __English__  
+3. __SEP__  
+4. __Lunch__  
+5. __Spanish__  
+6. __Art__  
+7. __Weight Training__  
+8. __US History__  
 
