@@ -2,7 +2,7 @@
 ####   __hectorv0351@hstat.org__  
 ## [Highschool of Telecommunication Arts and Technology](http://www.hstat.org/)
 
-##### _Bio:__ 
+##### ___Bio:___ 
 _Hello! Welcome to my about me im currently in the SEP program and a junior at **HSTAT**._  
 
 ![alt text](https://i.pinimg.com/originals/2d/12/1b/2d121b7a402498039b717b7c95284b3e.gif) 
